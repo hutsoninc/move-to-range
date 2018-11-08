@@ -1,6 +1,6 @@
 {
   "name": "move-to-range",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Move files to a range of directories.",
   "main": "index.js",
   "scripts": {
