@@ -1,5 +1,7 @@
 # move-to-range
 
+[![Build Status](https://travis-ci.com/hutsoninc/move-to-range.svg?branch=master)](https://travis-ci.com/hutsoninc/move-to-range) [![Current npm package version](https://img.shields.io/npm/v/move-to-range.svg)](https://www.npmjs.com/package/move-to-range) 
+
 Move files to a range of directories.
 
 ## Installation
@@ -61,9 +63,16 @@ $ tree
 │ ...
 ```
 
+## Options
+
+Property | Description | Default
+--- | --- | ---
+destination | Destination directory | `""`
+
 ## Related
 
-- [copy-to-range](https://github.com/hutsoninc/copy-to-range) - Copy files to a range of directories
+- [move-to-range-cli](https://github.com/hutsoninc/move-to-range-cli) - CLI for this module
+- [copy-to-range](https://github.com/hutsoninc/copy-to-range) - Copy a file to a range of directories
 - [make-dir-range](https://github.com/hutsoninc/make-dir-range) - Make directories from a range of integers
 
 ## Authors
