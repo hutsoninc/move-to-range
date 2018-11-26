@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/hutsoninc/move-to-range.svg?branch=master)](https://travis-ci.com/hutsoninc/move-to-range) [![Current npm package version](https://img.shields.io/npm/v/move-to-range.svg)](https://www.npmjs.com/package/move-to-range) 
 
-Move files to a range of directories.
+Move files to corresponding directories given a range
 
 ## Installation
 

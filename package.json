@@ -1,7 +1,7 @@
 {
   "name": "move-to-range",
   "version": "1.0.1",
-  "description": "Move files to a range of directories.",
+  "description": "Move files to corresponding directories given a range.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
